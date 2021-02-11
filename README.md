@@ -1,4 +1,4 @@
-# syndarGallery
+# Sýndar Gallery
 
 Sýndar Gallery is a 2D online art exhibition allowing users to view varying styles of art using filters emulating different colour deficiencies. The purpose of this gallery is to explore our relationship between colour and art, thus examining how influential (and arguably important) an artist's intended perception is on the way we ultimately perceive their work.
 
